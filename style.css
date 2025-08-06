@@ -45,3 +45,11 @@
     font-weight: normal;
     
 }
+
+#menuconteudo{
+    background-color: #ffffff;
+    display: grid;
+    grid-auto-flow: column;
+    column: auto
+}
+
